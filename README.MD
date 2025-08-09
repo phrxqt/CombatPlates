@@ -34,9 +34,9 @@ Open **Turtle WoW Launcher** > **Addons** tab > **+Add new addon** > paste this 
 
 ### Configuration Options
 
-![Configuration Menu](screenshots/menu.png)
+![Configuration Menu](img/menu.png)
 
-**During Combat:**
+**During Combat:s**
 - Show Enemy Nameplates
 - Show Friend Nameplates
 
@@ -46,7 +46,7 @@ Open **Turtle WoW Launcher** > **Addons** tab > **+Add new addon** > paste this 
 
 ### Minimap Button
 
-![Button](screenshots/button.png)
+![Button](img/button.png)
 
 - **Left-click**: Open configuration menu
 - **Right-click + drag**: Move button around minimap
