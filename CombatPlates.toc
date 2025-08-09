@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: CombatPlates
+## Notes: Allows user to select which nameplates to show when in and out of combat
+## Author: phrxqt
+## Version: 1.0
+## SavedVariables: CombatPlatesConf
+CombatPlates.lua
